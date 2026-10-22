@@ -1,6 +1,12 @@
-# 💫 About Me:
-### Introduction<br>Hi, I'm Elias Nahiry 👋<br><br>IT & Information Systems student at the University of Agder, Norway. I enjoy building practical software, exploring AI, and turning ideas into real-world solutions.<br><br>### 🔭 I'm currently working on<br>AI-driven solutions, backend development, and real-world software projects.<br><br>### 👯 I'm looking to collaborate on<br>Innovative projects involving AI, automation, and software development.<br><br>### 🤝 I'm looking for help with<br>Exploring new technologies and improving my software engineering skills.<br><br>### 🌱 I'm currently learning<br>AI agents, LLM integrations, Python, and modern development workflows.<br><br>### 💬 Ask me about<br>C#, .NET, databases, AI, and building practical applications.<br><br>### ⚡ Fun fact<br>I combine software development with competitive football.
+Hey, I'm Elias 👋
 
+I'm an IT & Information Systems student at the University of Agder, Norway, with a strong interest in software development, AI, and technology.
+
+I enjoy building things that solve real problems, whether it's developing applications, working with databases, or exploring how AI can make everyday tasks smarter and more efficient. I've gained hands-on experience through projects, internships, and working alongside other developers.
+
+I'm naturally curious and always looking to learn something new, experiment with ideas, and challenge myself. Lately, I've been particularly interested in AI agents, automation, and finding creative ways to combine AI with software development.
+
+Outside of tech, I'm also a competitive football player, balancing life on the pitch with my passion for building things through code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elias-nahiry-025734388/) 
