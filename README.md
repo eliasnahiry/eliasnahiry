@@ -1,48 +1,15 @@
-<div align="center">
+# 💫 About Me:
+### Introduction<br>Hi, I'm Elias Nahiry 👋<br><br>IT & Information Systems student at the University of Agder, Norway. I enjoy building practical software, exploring AI, and turning ideas into real-world solutions.<br><br>### 🔭 I'm currently working on<br>AI-driven solutions, backend development, and real-world software projects.<br><br>### 👯 I'm looking to collaborate on<br>Innovative projects involving AI, automation, and software development.<br><br>### 🤝 I'm looking for help with<br>Exploring new technologies and improving my software engineering skills.<br><br>### 🌱 I'm currently learning<br>AI agents, LLM integrations, Python, and modern development workflows.<br><br>### 💬 Ask me about<br>C#, .NET, databases, AI, and building practical applications.<br><br>### ⚡ Fun fact<br>I combine software development with competitive football.
 
-# Elias Nahiry
 
-**Software Development · AI · Data**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elias-nahiry-025734388/) 
 
-IT & Information Systems student at the University of Agder, Norway.  
-Building practical software with a focus on backend systems, databases and AI.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=eliasnahiry&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=eliasnahiry&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=eliasnahiry&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[LinkedIn](https://www.linkedin.com/in/elias-nahiry-025734388/) · [Selected work](https://hamdi205.github.io/Nettside-Bachelor-gruppen/prosjekt.html)
-
-</div>
-
----
-
-### About
-
-I enjoy turning complex problems into useful, straightforward software. Alongside my studies, I've worked with software development at Landmarker, contributed to data and AI-related work at IK Start, and supported fellow students as a learning assistant and mentor at UiA.
-
-I'm also part **PentaStack**, my bachelor's project group, and have experience working in collaborative development teams.
-
-### Selected projects
-
-**[Airspace Obstacle Reporting](https://github.com/JabirMAG/kartverket-obstacle)**  
-A web application developed in a student team for reporting and reviewing obstacles in Norwegian airspace, in collaboration with Kartverket and Norsk Luftambulanse. Includes map-based reporting and role-based workflows for pilots, registrars and administrators. **Joint 1st place at EXPO 2025 (23 teams).**  
-`C#` `ASP.NET Core MVC` `EF Core` `MariaDB` `Docker` `Leaflet`
-
-**[Emergency Harbours in Norway](https://github.com/FanuelHab/Geografiske-informasjonssystem-og-AI-prosjekt)**  
-An interactive map for locating emergency harbours along the Norwegian coast, with radius-based searches and spatial queries. Built as a team project in geographic information systems.  
-`JavaScript` `Leaflet` `PostgreSQL / PostGIS` `Supabase` `Node.js` `GeoPandas`
-
-[Explore project demos →](https://hamdi205.github.io/Nettside-Bachelor-gruppen/prosjekt.html)
-
-### Tools & technologies
-
-`C# / .NET` · `Python` · `JavaScript` · `SQL` · `PostgreSQL` · `MariaDB` · `Docker` · `Git` · `GitHub`
-
-### Currently exploring
-
-AI-assisted development, intelligent automation and ways to bring AI into practical software products.
-
----
-
-<div align="center">
-
-<sub>Based in Kristiansand, Norway · Open to learning, building and collaborating</sub>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
