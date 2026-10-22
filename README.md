@@ -17,7 +17,7 @@ Building practical software with a focus on backend systems, databases and AI.
 
 I enjoy turning complex problems into useful, straightforward software. Alongside my studies, I've worked with software development at Landmarker, contributed to data and AI-related work at IK Start, and supported fellow students as a learning assistant and mentor at UiA.
 
-I also lead **PentaStack**, my bachelor's project group, and have experience working in collaborative development teams.
+I'm also part **PentaStack**, my bachelor's project group, and have experience working in collaborative development teams.
 
 ### Selected projects
 
